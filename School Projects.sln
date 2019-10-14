@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameApp", "CardGameApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIMERAPP", "TIMERAPP\TIMERAPP.csproj", "{961B9DFC-FF6D-43C1-B108-F306C30CDF27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckShuffleApp", "DeckShuffleApp\DeckShuffleApp\DeckShuffleApp.csproj", "{01C37F60-F013-48F6-99D2-C70F1D4E0B98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{961B9DFC-FF6D-43C1-B108-F306C30CDF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{961B9DFC-FF6D-43C1-B108-F306C30CDF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{961B9DFC-FF6D-43C1-B108-F306C30CDF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C37F60-F013-48F6-99D2-C70F1D4E0B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C37F60-F013-48F6-99D2-C70F1D4E0B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C37F60-F013-48F6-99D2-C70F1D4E0B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C37F60-F013-48F6-99D2-C70F1D4E0B98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
